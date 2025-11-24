@@ -1,0 +1,7 @@
+{
+  "name": "Letz - Nightlife Social",
+  "description": "The ultimate nightlife social network. Decide where to go with friends in real-time.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
